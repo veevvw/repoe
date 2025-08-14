@@ -80,7 +80,7 @@ youtube_dl
 yt-dlp
 img2html
 googletrans-py
-ntgcalls==0.8.6
+ntgcalls==2.0.5
 pytube
 yt_dlp
 cryptography
