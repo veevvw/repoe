@@ -44,7 +44,7 @@ Pillow
 prettytable
 psutil
 psycopg2-binary
-py-tgcalls==2.0.2
+py-tgcalls==0.9.7
 pyfiglet
 PyGithub
 pygments
@@ -80,7 +80,6 @@ youtube_dl
 yt-dlp
 img2html
 googletrans-py
-ntgcalls==2.0.5
 pytube
 yt_dlp
 cryptography
