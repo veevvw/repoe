@@ -12,6 +12,8 @@ catbox-uploader
 cloudscraper
 colour
 flask
+flask_restful
+gunicorn
 cowpy
 DateTime
 emoji==1.7.0
