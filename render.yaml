@@ -1,5 +1,5 @@
 databases:
-  - name: V1
+  - name: SERVICE
     ipAllowList: []
     region: frankfurt
     plan: free
