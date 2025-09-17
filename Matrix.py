@@ -22,7 +22,7 @@ def _install_requirements():
 
 def _start_project():
     print("⌭ البدء بتشغيل ماتركـس  ⌭")
-    # تشغيل server.py في الخلفية ثم yamenthon
+    # 
     run("python3 server.py &")
     run("python3 -m Matrix")
 
