@@ -9,7 +9,7 @@ services:
     name: SERVICE
     env: python
     buildCommand: pip install -U -r requirements.txt
-    startCommand: python3 Tepthon.py
+    startCommand: python3 Matrix.py
     region: frankfurt
     envVars:
       - key: APP_ID
